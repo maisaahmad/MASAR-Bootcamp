@@ -1,2 +1,2 @@
 # MASAR-Bootcamp
-projects of data scice and machine learning boorcamp
+projects of data scice and machine learning bootcamp
